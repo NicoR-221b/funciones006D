@@ -29,7 +29,7 @@ def datos_estudiante():
 
 def mostrar_ficha (estudiante):
     print (f"Nombre del estudiante: {estudiante["nombre"]}")
-    print (f"RUT del estudiante: {estudiante["rut"]}")
+    print (f"RUT del estudiante: {estudiante["Rut"]}")
     print (f"Carrera del estudiante: {estudiante["carrera"]}")
     print (f"Semestre del estudiante: {estudiante["semestre"]}")
 
